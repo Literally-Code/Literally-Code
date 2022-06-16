@@ -1,5 +1,1 @@
-Hi
-
-I know Lua
-
-:3
+I can make rocks think!!
